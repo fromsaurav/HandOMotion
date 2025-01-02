@@ -84,5 +84,6 @@ Contact
 For questions or feedback, reach out to:
 
 Saurav Teli
-LinkedIn
-GitHub
+
+LinkedIn - www.linkedin.com/in/saurav-teli-89a27a263
+
